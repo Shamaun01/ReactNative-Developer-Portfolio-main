@@ -1,5 +1,6 @@
 # Flutter-Developer-Portfolio
-<p align="left">
+<p align="left">![Uploading White Minimalist Profile LinkedIn Banner.png…]()
+
   <img width="1000" alt="[MyPicShamaun" src="https://drive.google.com/file/d/1qkql0kcnw2T2XqYq4NHg-bGSZTIIKHlr/view?usp=sharing" />
 </p>
 
