@@ -1,1 +1,1 @@
-<a widht="1000" height="500" href="https://ibb.co/SV795S5"><img src="https://i.ibb.co/0YVdm5m/White-Minimalist-Profile-Linked-In-Banner.png" alt="White-Minimalist-Profile-Linked-In-Banner" border="0"></a>
+<a widht="1000" height="1000" href="https://ibb.co/SV795S5"><img src="https://i.ibb.co/0YVdm5m/White-Minimalist-Profile-Linked-In-Banner.png" alt="White-Minimalist-Profile-Linked-In-Banner" border="0"></a>
