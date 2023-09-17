@@ -1,6 +1,6 @@
 # Flutter-Developer-Portfolio
 <p align="left">
-  <img width="1000" alt="[MyPicShamaun" src="(https://drive.google.com/file/d/1qkql0kcnw2T2XqYq4NHg-bGSZTIIKHlr/view?usp=drive_link)" />
+  <img width="1000" alt="[MyPicShamaun" src="[https://drive.google.com/file/d/1qkql0kcnw2T2XqYq4NHg-bGSZTIIKHlr/view?usp=drive_link](https://drive.google.com/file/d/1qkql0kcnw2T2XqYq4NHg-bGSZTIIKHlr/view?usp=drive_link)" />
 </p>
 
 Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub repository. Here, you will find a curated selection of my recent Flutter projects that showcase my skills and expertise. As a Flutter Developer, I am currently seeking remote or relocation opportunities. Please take a look at my projects to see what I can do. If you think I'd be a good fit for your team, feel free to reach out! 
