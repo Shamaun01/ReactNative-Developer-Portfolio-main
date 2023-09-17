@@ -1,7 +1,8 @@
 # Flutter-Developer-Portfolio
 
 <p align="left">
-  <img width="1000" alt="MyPicIsaiasCuvula" src="https://www.canva.com/design/DAFuuBhTCx4/yzl7wULThNdqT4rpLNTgow/edit?utm_content=DAFuuBhTCx4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+  <img width="1000" alt="MyPicShamaun" src="![image](https://github.com/Shamaun01/ReactNative-Developer-Portfolio-main/assets/95437338/8f7d751f-3764-42d1-b44f-9e2c6caef123)
+" />
 </p>
 
 Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub repository. Here, you will find a curated selection of my recent Flutter projects that showcase my skills and expertise. As a Flutter Developer, I am currently seeking remote or relocation opportunities. Please take a look at my projects to see what I can do. If you think I'd be a good fit for your team, feel free to reach out! 
