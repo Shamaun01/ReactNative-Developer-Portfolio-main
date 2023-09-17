@@ -1,7 +1,7 @@
 # Flutter-Developer-Portfolio
 
 <a href="https://ibb.co/SV795S5"><img src="https://i.ibb.co/SV795S5/White-Minimalist-Profile-Linked-In-Banner.png" alt="White-Minimalist-Profile-Linked-In-Banner" border="0"></a>
-  <img width="1000" alt="MyPicShamaun" src="https://drive.google.com/file/d/1qkql0kcnw2T2XqYq4NHg-bGSZTIIKHlr/view?usp=sharing](https://drive.google.com/file/d/1qkql0kcnw2T2XqYq4NHg-bGSZTIIKHlr/view?usp=sharing](https://www.canva.com/design/DAFuuBhTCx4/a_I371Rgm-Vx7CCCGU9WVQ/view?utm_content=DAFuuBhTCx4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" />
+  <img width="1000" alt="MyPicShamaun" src="https://i.ibb.co/SV795S5/White-Minimalist-Profile-Linked-In-Banner.png" />
 </p>
 
 Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub repository. Here, you will find a curated selection of my recent Flutter projects that showcase my skills and expertise. As a Flutter Developer, I am currently seeking remote or relocation opportunities. Please take a look at my projects to see what I can do. If you think I'd be a good fit for your team, feel free to reach out! 
